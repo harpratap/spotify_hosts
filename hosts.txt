@@ -54,7 +54,7 @@
 127.0.0.1 upgrade.scdn.co
 127.0.0.1 upgrade.spotify.com
 127.0.0.1 sto3-accesspoint-a88.sto3.spotify.net
-127.0.0.1 www.spotify-desktop.com127.0.0.1 
+127.0.0.1 www.spotify-desktop.com
 
 # [https://github.com/natuschaos/Fuck-Spotify-Ads]
 127.0.0.1 ads-fa.spotify.com
@@ -116,3 +116,5 @@
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.omaze.com
 127.0.0.1 weblb-wg.gslb.spotify.com
+0.0.0.0 www.interia.pl
+0.0.0.0 cdn.tellwrite.com
